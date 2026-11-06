@@ -4,7 +4,7 @@ A Python-based image processing tool designed to analyze Micro-CT rock slice sca
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This repository contains scripts developed to automate feature detection from rock CT imaging data:
 - **Image Preprocessing & Thresholding:** Slices and crops CT scan images, thresholding pixel values against calculated medians.
@@ -13,7 +13,7 @@ This repository contains scripts developed to automate feature detection from ro
 
 ---
 
-## 🛠️ Requirements
+## Requirements
 
 - Python 3.x
 - `numpy`
